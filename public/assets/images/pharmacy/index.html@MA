@@ -1,0 +1,36 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" href="/_autoindex/assets/css/autoindex.css" /><script src="/_autoindex/assets/js/tablesort.js"></script><script src="/_autoindex/assets/js/tablesort.number.js"></script><title>Index of /doctris-v1.2.0/layouts/assets/images/pharmacy/</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head><body><div class="content"><h1 style="color: #555;">Index of /doctris-v1.2.0/layouts/assets/images/pharmacy/</h1>
+<div id="table-filter"><input type="text" name="keyword" id="filter-keyword" placeholder="Filter Name"></div>
+<div id="table-list"><table id="table-content"><thead class="t-header"><tr><th class="colname"><a class="name" href="?NA"  onclick="return false"">Name</a></th><th class="colname" data-sort-method="number" aria-sort="ascending"><a href="?MD"  onclick="return false"">Last Modified</a></th><th class="colname" data-sort-method="number"><a href="?SA"  onclick="return false"">Size</a></th></tr></thead>
+<tr data-sort-method="none"><td><a href="/doctris-v1.2.0/layouts/assets/images/"><img class="icon" src="/_autoindex/assets/icons/corner-left-up.svg" alt="Up">Parent Directory</a></td><td></td><td></td></tr>
+<tr><td data-sort="*shop"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/shop/"><img class="icon" src="/_autoindex/assets/icons/folder-fill.svg" alt="Directory">shop</a></td><td data-sort="62686818">2021-12-14 16:30</td><td data-sort="-1">-</td></tr>
+<tr><td data-sort="download.png"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/download.png"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">download.png</a></td><td data-sort="1610173580">2021-01-09 09:56</td><td data-sort="351456">    344k</td></tr>
+<tr><td data-sort="heart.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/heart.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">heart.jpg</a></td><td data-sort="1613905150">2021-02-21 14:29</td><td data-sort="27069">     27k</td></tr>
+<tr><td data-sort="pain.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/pain.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">pain.jpg</a></td><td data-sort="1613905158">2021-02-21 14:29</td><td data-sort="30787">     31k</td></tr>
+<tr><td data-sort="sexual.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/sexual.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">sexual.jpg</a></td><td data-sort="1613905166">2021-02-21 14:29</td><td data-sort="19259">     19k</td></tr>
+<tr><td data-sort="skin.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/skin.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">skin.jpg</a></td><td data-sort="1613905172">2021-02-21 14:29</td><td data-sort="26482">     26k</td></tr>
+<tr><td data-sort="weight.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/weight.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">weight.jpg</a></td><td data-sort="1613905180">2021-02-21 14:29</td><td data-sort="37172">     37k</td></tr>
+<tr><td data-sort="cancer.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/cancer.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">cancer.jpg</a></td><td data-sort="1613905186">2021-02-21 14:29</td><td data-sort="19185">     19k</td></tr>
+<tr><td data-sort="cough.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/cough.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">cough.jpg</a></td><td data-sort="1613905192">2021-02-21 14:29</td><td data-sort="21582">     22k</td></tr>
+<tr><td data-sort="diabetes.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/diabetes.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">diabetes.jpg</a></td><td data-sort="1613905200">2021-02-21 14:30</td><td data-sort="26552">     26k</td></tr>
+<tr><td data-sort="doctor.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/doctor.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">doctor.jpg</a></td><td data-sort="1613910806">2021-02-21 16:03</td><td data-sort="28981">     29k</td></tr>
+<tr><td data-sort="delivery.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/delivery.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">delivery.jpg</a></td><td data-sort="1613910818">2021-02-21 16:03</td><td data-sort="16425">     17k</td></tr>
+<tr><td data-sort="cta.jpg"><a href="/doctris-v1.2.0/layouts/assets/images/pharmacy/cta.jpg"><img class="icon" src="/_autoindex/assets/icons/image.svg" alt="[IMG]">cta.jpg</a></td><td data-sort="1613913704">2021-02-21 16:51</td><td data-sort="39662">     39k</td></tr>
+</table></div>
+<address>Proudly Served by LiteSpeed Web Server at atiyehahmadi.ir Port 443</address></div><script>
+	new Tablesort(document.getElementById("table-content"));
+	var keywordInput = document.getElementById('filter-keyword');
+	document.addEventListener('keyup', filterTable);
+
+	function filterTable(e) {
+		if (e.target.id != 'filter-keyword') return;
+
+		var cols = document.querySelectorAll('tbody td:first-child');
+		var keyword = keywordInput.value.toLowerCase();
+		for (i = 0; i < cols.length; i++) {
+			var text = cols[i].textContent.toLowerCase();
+			if (text != 'parent directory') {
+				cols[i].parentNode.style.display = text.indexOf(keyword) === -1 ? 'none' : 'table-row';
+			}
+		}
+	}
+</script></body></html>
